@@ -1,0 +1,112 @@
+{
+  "biodata": [
+    {
+      "id": 4,
+      "firstName": "Cindy",
+      "lastName": "Tubby",
+      "email": "ctubby3@amazon.com",
+      "gender": "Female",
+      "phoneNumber": "309-335-0814",
+      "stateOfOrigin": "Illinois"
+    },
+    {
+      "id": 5,
+      "firstName": "Theodora",
+      "lastName": "Gatecliff",
+      "email": "tgatecliff4@instagram.com",
+      "gender": "Female",
+      "phoneNumber": "412-554-4499",
+      "stateOfOrigin": "Pennsylvania"
+    },
+    {
+      "id": 7,
+      "firstName": "Eolanda",
+      "lastName": "Place",
+      "email": "eplace6@issuu.com",
+      "gender": "Male",
+      "phoneNumber": "801-322-2126",
+      "stateOfOrigin": "Utah"
+    },
+    {
+      "id": 9,
+      "firstName": "Nana",
+      "lastName": "Karppi",
+      "email": "nkarppi8@alibaba.com",
+      "gender": "Male",
+      "phoneNumber": "919-443-8686",
+      "stateOfOrigin": "North Carolina"
+    },
+    {
+      "id": 11,
+      "firstName": "Menard",
+      "lastName": "Bednell",
+      "email": "mbednella@tinyurl.com",
+      "gender": "Male",
+      "phoneNumber": "786-787-9170",
+      "stateOfOrigin": "Florida"
+    },
+    {
+      "id": 13,
+      "firstName": "Lillis",
+      "lastName": "Zambon",
+      "email": "lzambonc@msn.com",
+      "gender": "Male",
+      "phoneNumber": "917-394-5255",
+      "stateOfOrigin": "New York"
+    },
+    {
+      "id": 14,
+      "firstName": "Aila",
+      "lastName": "Roobottom",
+      "email": "aroobottomd@toplist.cz",
+      "gender": "Male",
+      "phoneNumber": "202-410-1081",
+      "stateOfOrigin": "District of Columbia"
+    },
+    {
+      "id": 15,
+      "firstName": "Vanna",
+      "lastName": "Yeskov",
+      "email": "vyeskove@amazon.de",
+      "gender": "Gender",
+      "phoneNumber": "615-576-4833",
+      "stateOfOrigin": "Tennessee"
+    },
+    {
+      "id": 16,
+      "firstName": "Abe",
+      "lastName": "Vannini",
+      "email": "avanninif@tiny.cc",
+      "gender": "Male",
+      "phoneNumber": "717-604-4257",
+      "stateOfOrigin": "Pennsylvania"
+    },
+    {
+      "id": 17,
+      "firstName": "Jorey",
+      "lastName": "Henstridge",
+      "email": "jhenstridgeg@scientificamerican.com",
+      "gender": "Female",
+      "phoneNumber": "916-498-8520",
+      "stateOfOrigin": "California"
+    },
+    {
+      "id": 19,
+      "firstName": "Kaycee",
+      "lastName": "O'Ferris",
+      "email": "koferrisi@chicagotribune.com",
+      "gender": "Female",
+      "phoneNumber": "859-323-8828",
+      "stateOfOrigin": "Kentucky"
+    },
+    {
+      "id": 20,
+      "firstName": "Richy",
+      "lastName": "Dorrins",
+      "email": "rdorrinsj@tinypic.com",
+      "gender": "Genderfluid",
+      "phoneNumber": "267-981-4427",
+      "stateOfOrigin": "Pennsylvania"
+    }
+  ]
+}
